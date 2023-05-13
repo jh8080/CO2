@@ -1,5 +1,4 @@
 setwd("~/")
-setwd("D:/Upwork/1973oil")
 
 # Read data
 data=read.csv("co2.csv",header=TRUE)
